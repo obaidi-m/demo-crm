@@ -1,0 +1,6 @@
+brain.db
+backups/
+__pycache__/
+*.pyc
+setup/local_settings.json
+.env
